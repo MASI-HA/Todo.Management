@@ -10,7 +10,7 @@
 > **"Not just another todo app - it's a cyber experience"**
 
 ## 🚀 **Live Demo**
-**🔗 [https://todomanagement-lemon.vercel.app](https://todomanagement-lemon.vercel.app)**
+**🔗 [https://todomanagement-lemon.vercel.app](todo-management-virid.vercel.app)**
 
 ## 🎯 **Features**
 
